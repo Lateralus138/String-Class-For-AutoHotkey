@@ -2,7 +2,7 @@
 Create objects of strings in AutoHotkey
 
 ## Current Release
-[Release Page - Source Files](https://github.com/Lateralus138/CPL-Explorer/releases/latest)
+[Release Page - Source Files](https://github.com/Lateralus138/String-Class-For-AutoHotkey)
 
 ## Example Code
 ```
